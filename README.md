@@ -6,4 +6,4 @@ Insomnia
 1. Crear Post en el puerto 3000/db
 2. Contenido: {"namedb": "shop"}
 
-http://localhost:3000/db
+--url: http://localhost:3000/db
